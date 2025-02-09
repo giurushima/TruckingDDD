@@ -13,6 +13,9 @@ Proyecto sobre desarrollo en asignatura de Programacion III para entrega final d
 - SQLite
 - Visual Studio 2022 Community
 
+- Entity Framework Core v
+- SQLite
+
 # Requisitos para ejecutar programa.
 - Cuenta de GitHub.
 - Computadora con sistema operativo Windows.
